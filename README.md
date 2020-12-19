@@ -2,7 +2,9 @@
 <h3 align="center">A passionate and beginner android developer from Turkey</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=glapnak" alt="glapnak" /> </p>
+
 <h1 align="center"></h1>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
