@@ -5,16 +5,17 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=glapnak" alt="glapnak" /> </p>
 <h1 align="center"></h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
+
+
+<h3 align="center">- 🔭 I’m currently working on ...</h3>
+<h3 align="center">- 🌱 I’m currently learning ...</h3>
+<h3 align="center">- 👯 I’m looking to collaborate on ...</h3>
+<h3 align="center">- 🤔 I’m looking for help with ...</h3>
+<h3 align="center">- 💬 Ask me about ...</h3>
+<h3 align="center">- 📫 How to reach me: ...</h3>
+<h3 align="center">- 😄 Pronouns: ... </h3>
+<h3 align="center">- ⚡ Fun fact: ... </h3>
+
 
 
 
