@@ -13,8 +13,8 @@
 <h3 align="center">- 😄 Pronouns: ... </h3>
 <h3 align="center">- ⚡ Fun fact: ... </h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=glapnak" alt="glapnak" /> </p>
-
+<p align="center"> <img alt="Visitors" src="https://komarev.com/ghpvc/?username=glapnak&style=flat&labelColor=black&logo=github&label=Profile+Views&color=25383C"/> </p>
+<p align="center"> <img alt="Last Commit" src="https://img.shields.io/github/last-commit/glapnak/glapnak?logo=markdown&label=Last+Update&color=25383C&style=dark"/> </p>
 ![Glapnak's github stats](https://github-readme-stats.vercel.app/api?username=glapnak&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glapnak&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
