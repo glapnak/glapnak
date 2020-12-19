@@ -1,8 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Arif</h1>
+<h3 align="center">A passionate and beginner android developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glapnak" alt="glapnak" /> </p>
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
