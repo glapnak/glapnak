@@ -12,6 +12,8 @@
 <h3 align="center">- 📫 How to reach me: ...</h3>
 <h3 align="center">- 😄 Pronouns: ... </h3>
 <h3 align="center">- ⚡ Fun fact: ... </h3>
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=glapnak" alt="glapnak" /> </p>
 
 
