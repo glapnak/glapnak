@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=glapnak" alt="glapnak" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=glapnak" alt="glapnak" /> </p>
 
 Here are some ideas to get you started:
 
