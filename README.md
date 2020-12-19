@@ -2,7 +2,7 @@
 <h3 align="center">A passionate and beginner android developer from Turkey</h3>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=glapnak" alt="glapnak" /> </p>
+<p align="padding"> <img src="https://komarev.com/ghpvc/?username=glapnak" alt="glapnak" /> </p>
 <h1 align="center"></h1>
 
 
