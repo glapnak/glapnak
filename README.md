@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arif</h1>
 <h3 align="center">A passionate and beginner android developer from Turkey</h3>
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=glapnak" alt="glapnak" /> </p>
 <h1 align="center"></h1>
 
 
@@ -15,6 +12,7 @@
 <h3 align="center">- 📫 How to reach me: ...</h3>
 <h3 align="center">- 😄 Pronouns: ... </h3>
 <h3 align="center">- ⚡ Fun fact: ... </h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=glapnak" alt="glapnak" /> </p>
 
 
 
