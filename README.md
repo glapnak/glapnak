@@ -16,5 +16,5 @@
 <p align="center"> <img alt="Visitors" src="https://komarev.com/ghpvc/?username=glapnak&style=flat&labelColor=black&logo=github&label=Profile+Views&color=25383C"/> </p>
 <p align="center"> <img alt="Last Commit" src="https://img.shields.io/github/last-commit/glapnak/glapnak?logo=markdown&label=Last+Update&color=25383C&style=dark"> </p>
 
-<p align="center"> <img alt="Visitors" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glapnak&theme=dark" alt="glapnak"/> </p>
-<p align="center"> <img alt="Last Commit" src="https://github-readme-stats.vercel.app/api?username=glapnak&show_icons=true&theme=dark"> </p>
+<p align="center"> <img alt="Top-Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glapnak&theme=dark" alt="glapnak"/> </p>
+<p align="center"> <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=glapnak&show_icons=true&theme=dark"> </p>
