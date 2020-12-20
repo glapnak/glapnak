@@ -19,4 +19,3 @@
 
 ![Glapnak's github stats](https://github-readme-stats.vercel.app/api?username=glapnak&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glapnak&show_icons=true&theme=dark)](https://github.com/glapnak/github-readme-stats)
-
