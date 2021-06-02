@@ -5,12 +5,12 @@
 
 
 <h3 align="center">- 🔭 I’m currently working on ...</h3>
-<h3 align="center">- 🌱 I’m currently learning ...</h3>
+<h3 align="center">- 🌱 I’m currently learning C++</h3>
 <h3 align="center">- 👯 I’m looking to collaborate on ...</h3>
 <h3 align="center">- 🤔 I’m looking for help with ...</h3>
 <h3 align="center">- 💬 Ask me about ...</h3>
-<h3 align="center">- 📫 How to reach me: ...</h3>
-<h3 align="center">- 😄 Pronouns: ... </h3>
+<h3 align="center">- 📫 How to reach me: Instagram</h3>
+<h3 align="center">- 😄 Pronouns: Cultist </h3>
 <h3 align="center">- ⚡ Fun fact: ... </h3>
 
 <p align="center"> <img alt="Visitors" src="https://komarev.com/ghpvc/?username=glapnak&style=flat&labelColor=black&logo=github&label=Profile+Views&color=25383C"/> </p>
