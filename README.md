@@ -4,14 +4,14 @@
 
 
 
-<h3 align="center">- 🔭 I’m currently working on ...</h3>
+<h3 align="center">- 🔭 I’m currently working on Nothing</h3>
 <h3 align="center">- 🌱 I’m currently learning C#</h3>
-<h3 align="center">- 👯 I’m looking to collaborate on ...</h3>
-<h3 align="center">- 🤔 I’m looking for help with ...</h3>
-<h3 align="center">- 💬 Ask me about ...</h3>
-<h3 align="center">- 📫 How to reach me: Instagram</h3>
-<h3 align="center">- 😄 Pronouns: Cultist </h3>
-<h3 align="center">- ⚡ Fun fact: ... </h3>
+<h3 align="center">- 👯 I’m looking to collaborate on Sunar Mısır</h3>
+<h3 align="center">- 🤔 I’m looking for help with Cyber Security</h3>
+<h3 align="center">- 💬 Ask me about Hobby</h3>
+<h3 align="center">- 📫 How to reach me: Instagram @siyahlumpen</h3>
+<h3 align="center">- 😄 Pronouns: Cthulhu </h3>
+<h3 align="center">- ⚡ Fun fact: :) </h3>
 
 <p align="center"> <img alt="Visitors" src="https://komarev.com/ghpvc/?username=glapnak&style=flat&labelColor=black&logo=github&label=Profile+Views&color=25383C"/> </p>
 <p align="center"> <img alt="Last Commit" src="https://img.shields.io/github/last-commit/glapnak/glapnak?logo=markdown&label=Last+Update&color=25383C&style=dark"> </p>
