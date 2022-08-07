@@ -24,11 +24,7 @@
   </a>
   <a href="">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glapnak&theme=dark" alt="glapnak" />
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glapnak&theme=dark&show_icons=true&locale=en" alt="glapnak" />
   </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=glapnak&show_icons=true&locale=en" alt="glapnak" /></p>
-
 
 <hr>
