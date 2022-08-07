@@ -24,7 +24,7 @@
   </a>
   <a href="">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glapnak&theme=dark" alt="glapnak" />
-  
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glapnak&theme=dark" alt="glapnak" />
   </a>
 </p>
 
