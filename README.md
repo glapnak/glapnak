@@ -20,7 +20,7 @@
 
 <p align=center>
   <a href="" title="">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=glapnak&show_icons=true&theme=dark">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=glapnak&theme=dark">
   </a>
   <a href="">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glapnak&theme=dark" alt="glapnak" />
