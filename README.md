@@ -5,7 +5,7 @@
 
 
 <h3 align="center">- 🔭 I’m currently working on ...</h3>
-<h3 align="center">- 🌱 I’m currently learning C++</h3>
+<h3 align="center">- 🌱 I’m currently learning C#</h3>
 <h3 align="center">- 👯 I’m looking to collaborate on ...</h3>
 <h3 align="center">- 🤔 I’m looking for help with ...</h3>
 <h3 align="center">- 💬 Ask me about ...</h3>
