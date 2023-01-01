@@ -4,13 +4,13 @@
 
 
 
-<h3 align="center">- 🔭 I’m currently working on Nothing</h3>
-<h3 align="center">- 🌱 I’m currently learning C#</h3>
-<h3 align="center">- 👯 I’m looking to collaborate on Sunar Mısır</h3>
-<h3 align="center">- 🤔 I’m looking for help with Cyber Security</h3>
+<h3 align="center">- 🔭 I’m currently working on SFX Horror Game</h3>
+<h3 align="center">- 🌱 I’m currently learning Unreal Engine 5</h3>
+<h3 align="center">- 👯 I’m looking to collaborate on Game Developer Companies</h3>
+<h3 align="center">- 🤔 I’m looking for help with Unreal Engine</h3>
 <h3 align="center">- 💬 Ask me about Hobby</h3>
 <h3 align="center">- 📫 How to reach me: Instagram @siyahlumpen</h3>
-<h3 align="center">- 😄 Pronouns: Cthulhu </h3>
+<h3 align="center">- 😄 Pronouns: Cthulhu Fhtagn </h3>
 <h3 align="center">- ⚡ Fun fact: :) </h3>
 
 <p align="center"> <img alt="Visitors" src="https://komarev.com/ghpvc/?username=glapnak&style=flat&labelColor=black&logo=github&label=Profile+Views&color=25383C"/> </p>
